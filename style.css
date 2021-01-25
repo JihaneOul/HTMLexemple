@@ -1,0 +1,29 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+    text-align: center !important;
+    font-size: large;
+    font-family:Helvetica
+}
+
+.box
+{
+	display:inline-block;
+    background-color:#fff0f5;
+    border:5px solid #ec7bb5;
+    width : 300px;
+    padding: 50px;
+    margin: 5px;
+    font-size:15px;
+    text-align: left;
+}
+
+.highlight
+{
+    display: inline;
+    background-color: yellow;
+}
