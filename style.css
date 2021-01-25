@@ -12,7 +12,7 @@ body
 
 .box
 {
-	display:inline-block;
+    display:inline-block;
     background-color:#fff0f5;
     border:5px solid #ec7bb5;
     width : 300px;
